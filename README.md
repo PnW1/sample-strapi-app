@@ -4,6 +4,8 @@ Download it or Clone it:
 
 go to directory using: -- cd sample-strapi-app
 
+install dependencies using: -- npm install
+
 run app locally using: -- npm run develop
 
 make http:GET requests on: 
